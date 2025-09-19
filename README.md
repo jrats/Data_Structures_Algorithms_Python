@@ -103,6 +103,14 @@ self_DSA/
    python binary_tree_linked_list_self.py
    ```
 
+## 🤝 Contributing
+
+This is a personal learning repository, but suggestions and improvements are welcome! Feel free to:
+
+- Report bugs or issues
+- Suggest optimizations
+- Add alternative implementations
+- Improve documentation
 
 ## 📚 Topics Covered
 
@@ -124,20 +132,6 @@ self_DSA/
 - ✅ Tree Traversals
 - ✅ Recursive Problem Solving
 
-## 🎯 Interview Preparation
-
-This repository is particularly useful for:
-- **FAANG Interview Preparation**
-- **Competitive Programming**
-- **University Course Supplement**
-- **Self-Learning DSA Concepts**
-
-## 📈 Complexity Analysis
-
-Each implementation includes considerations for:
-- **Time Complexity**: Big O analysis for operations
-- **Space Complexity**: Memory usage optimization
-- **Trade-offs**: Understanding when to use which approach
 
 ## 🔗 Connect
 
