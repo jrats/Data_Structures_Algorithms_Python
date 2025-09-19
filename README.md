@@ -103,14 +103,6 @@ self_DSA/
    python binary_tree_linked_list_self.py
    ```
 
-## 🤝 Contributing
-
-This is a personal learning repository, but suggestions and improvements are welcome! Feel free to:
-
-- Report bugs or issues
-- Suggest optimizations
-- Add alternative implementations
-- Improve documentation
 
 ## 📚 Topics Covered
 
